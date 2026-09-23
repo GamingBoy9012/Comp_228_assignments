@@ -9,7 +9,7 @@ public class A_Calculator {
 	//metjod for calculating average
 	public double average(double mark1,double mark2, double mark3, double mark4)
 	{
-		return (mark1 + mark2 + mark3 + mark4)/4 ;
+		return (mark1 + mark2 + mark3 + mark4)/3 ;
 	}
 	
 	//method for getting the Grade according based on the average
